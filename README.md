@@ -2,6 +2,14 @@
 
 A career switcher from the freight forwarding industry turned **Fullstack JavaScript Developer** — with a passion for building user-centric web & mobile applications.
 
+![Profile views](https://komarev.com/ghpvc/?username=almontijourdanm&label=Profile%20views&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Almonti%20Manuputty-blue?logo=linkedin)](https://www.linkedin.com/in/almonti-manuputty)
+[![Gmail](https://img.shields.io/badge/Gmail-almontimanuputty%40gmail.com-red?logo=gmail)](mailto:almontimanuputty@gmail.com)
+
+---
+
+## 🧠 About Me
+
 💻 I specialize in:
 - **Frontend Development** using React, React Native, Next.js, and Tailwind CSS
 - **Backend Services** with Node.js, Express, GraphQL, and PostgreSQL/MongoDB
@@ -37,6 +45,25 @@ A career switcher from the freight forwarding industry turned **Fullstack JavaSc
 
 ---
 
+## 📊 GitHub Stats
+
+![Almonti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almontijourdanm&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almontijourdanm&layout=compact&theme=default)
+
+---
+
+## 🖼️ GitHub Dark/Light Mode Preview
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almontijourdanm/almontijourdanm/main/assets/github-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almontijourdanm/almontijourdanm/main/assets/github-light.png">
+    <img alt="Preview of my GitHub README" src="https://raw.githubusercontent.com/almontijourdanm/almontijourdanm/main/assets/github-light.png">
+  </picture>
+</p>
+
+---
+
 ## 📬 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/almonti-manuputty)
@@ -46,3 +73,11 @@ A career switcher from the freight forwarding industry turned **Fullstack JavaSc
 ---
 
 Thanks for visiting my profile — feel free to check out my projects or reach out if you'd like to collaborate! 🚀
+"""
+
+# Save the enhanced README to a new file
+enhanced_file_path = "/mnt/data/README_GitHub_Profile_With_Stats.md"
+with open(enhanced_file_path, "w") as f:
+    f.write(enhanced_readme)
+
+enhanced_file_path
