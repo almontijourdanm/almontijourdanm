@@ -147,7 +147,7 @@ A career switcher from the freight forwarding industry turned **Fullstack JavaSc
 
 ## 💰 You can help me by Donating
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U51EAFOC)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/almontijourdanm)
 
 Thanks for visiting my profile — feel free to check out my projects or reach out if you'd like to collaborate! 🚀
 
