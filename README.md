@@ -50,19 +50,6 @@ A career switcher from the freight forwarding industry turned **Fullstack JavaSc
 ![Almonti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almontijourdanm&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almontijourdanm&layout=compact&theme=default)
 
----
-
-## 🖼️ GitHub Dark/Light Mode Preview
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almontijourdanm/almontijourdanm/main/assets/github-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almontijourdanm/almontijourdanm/main/assets/github-light.png">
-    <img alt="Preview of my GitHub README" src="https://raw.githubusercontent.com/almontijourdanm/almontijourdanm/main/assets/github-light.png">
-  </picture>
-</p>
-
----
 
 ## 📬 Let's Connect
 
@@ -73,11 +60,3 @@ A career switcher from the freight forwarding industry turned **Fullstack JavaSc
 ---
 
 Thanks for visiting my profile — feel free to check out my projects or reach out if you'd like to collaborate! 🚀
-"""
-
-# Save the enhanced README to a new file
-enhanced_file_path = "/mnt/data/README_GitHub_Profile_With_Stats.md"
-with open(enhanced_file_path, "w") as f:
-    f.write(enhanced_readme)
-
-enhanced_file_path
