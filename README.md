@@ -115,7 +115,7 @@ A career switcher from the freight forwarding industry turned **Fullstack JavaSc
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=almontijourdanm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=almontijourdanm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=almontijourdanm&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=almontijourdanm&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
