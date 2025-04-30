@@ -115,7 +115,7 @@ A career switcher from the freight forwarding industry turned **Fullstack JavaSc
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=almontijourdanm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=almontijourdanm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=almontijourdanm&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=almontijourdanm&theme=aura" height="150" alt="streak graph" />
 </div>
 
 ###
@@ -147,7 +147,7 @@ A career switcher from the freight forwarding industry turned **Fullstack JavaSc
 
 ## 💰 You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/almontijourdanm)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U51EAFOC)
 
 Thanks for visiting my profile — feel free to check out my projects or reach out if you'd like to collaborate! 🚀
 
