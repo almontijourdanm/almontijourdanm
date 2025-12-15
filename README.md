@@ -96,13 +96,16 @@ A career switcher from the freight forwarding industry turned **Fullstack JavaSc
 
 ## 🧩 Featured Projects
 
-| Project                                      | Description                                                          | Tech Stack                                   | Demo |
-| -------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------- | ---- |
-| [Jolt Jordan](https://joltjordan.vercel.app) | Job portal platform with AI-powered CV generator and Telegram alerts | Next.js, TypeScript, MongoDB, GraphQL        | ✅   |
-| [Qarl](https://qarl.vercel.app)              | E-commerce site for reusable drink bottles                           | Next.js, MongoDB, GraphQL, TypeScript        | ✅   |
-| Snapflex                                     | Photo-sharing mobile app with real-time updates                      | React Native, Apollo, MongoDB, Redis         | 🔧   |
-| Queezy                                       | AI-generated word quiz game with category selection                  | React, Redux, Express, PostgreSQL, Gemini AI | 🔧   |
-| Flex                                         | Fitness exercise finder app using ExerciseDB API                     | React, Redux, Express, PostgreSQL            | 🔧   |
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| **[Lume](https://lume.almontijourdanm.com)** | 3D product showcase featuring interactive ambient desk lamps with scroll-based animation and dynamic lighting | Next.js, React Three Fiber, Three.js, GSAP, TypeScript | ✅ |
+| **[ADYA JAYA](https://freightforwarding1.almontijourdanm.com)** | End-to-end freight forwarding platform including shipment tracking, rate calculation, and customs services | Next.js, TypeScript, Tailwind CSS, Vercel | ✅ |
+| **[Jolt Jordan](https://jolt.timmytech.fun)** | AI-powered job portal with resume optimizer and Telegram bot notifications | Next.js, GraphQL, TypeScript, MongoDB | ✅ |
+| **[Qarl](https://qarl.almontijourdanm.com)** | E-commerce website for reusable water bottles | Next.js, MongoDB, GraphQL, TypeScript | ✅ |
+| **[DinoEscape](https://dinoescape.almontijourdanm.com)** | UI/UX design project for a dinosaur-themed travel & tour service | Canva, UI/UX Design, Responsive Design | ✅ |
+| **Sparkles** | Mobile photo-sharing app inspired by Instagram | React Native, GraphQL, Redis, MongoDB | 🔧 |
+| **Queezy** | AI-based quiz game with dynamic category selection | React, Express, PostgreSQL, Gemini AI | 🔧 |
+| **Flex** | Fitness discovery app using ExerciseDB API | React, Express, Redux, PostgreSQL | 🔧 |
 
 > 🔧 = In progress or not yet deployed
 
